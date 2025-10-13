@@ -34,7 +34,7 @@ Actualmente realizando una pasantía en **WESO** trabajando para el cliente *Ani
 
 ## 📂 Repos recomendados (pin)
 - PROMED10S — App de análisis y visualización.  
-- Diseño Web — Proyectos de maquetación y estilos.  
+- PORTE — Página web estilo landing page para una marca premium de alimento para mascotas.  
 - Proyecto Scripts de Bash — Scripts útiles para sistemas.  
 - Ejercitaciones integradoras — Ejemplos y prácticas.
 
